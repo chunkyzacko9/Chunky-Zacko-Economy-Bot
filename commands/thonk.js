@@ -12,7 +12,7 @@ class PxlThonkifyCommand extends basecommand_1.BaseCommand {
             metadata: (0, command_metadata_1.ImageMetadata)("why", "<query: string>"),
             type: [
                 {
-                    name: "thonk text",
+                    name: "text",
                     type: "string",
                     required: true,
                     consume: true
